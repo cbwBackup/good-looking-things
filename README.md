@@ -1,2 +1,1 @@
-# funny-code
-Write some funny codes in it!
+# Try to ruin the computer!
